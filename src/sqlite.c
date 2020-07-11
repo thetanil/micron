@@ -3,7 +3,6 @@
 
 int main(void)
 {
-
     sqlite3 *db;
     char *err_msg = 0;
 
